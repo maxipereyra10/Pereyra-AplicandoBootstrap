@@ -4,6 +4,12 @@
 }
 
 .footer {
+  background-color: gray;
+  border: 2px solid rgb(58, 55, 55);
+  font-size: 18px;
+}
+
+.footer {
   display: flex;
   justify-content: center;
   align-items: center;
